@@ -23,6 +23,7 @@ When adding a new program file,  name it following the convention HelloWorld.ext
 For example, for a Python  file, the name should be python.py
 
 Follow these steps to contribute:
+
 ⭐️ Star this repository using the 'Star' button on the top.
 
 🍴 Fork this repository: Click the "Fork" button in the top right of this page to create a copy of this repository in your GitHub account.
@@ -33,13 +34,13 @@ Follow these steps to contribute:
 
 🚀 Commit and push: Commit your changes and push them to your forked repository:
 
--git add HelloWorld.extension
+-git add name.extension
 
 -git commit -m "Added name  in [language]"
 
 -git push origin master
 
--no need to make extra branch 
+-no need to make an extra branch 
 
 
 ✨ Submit a pull request: Go to your forked repository on GitHub and click "New pull request". Fill in the details and submit the pull request for review.
