@@ -4,7 +4,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Names_Hacktoberfest" alt="Typing SVG" /></a>
 </p>
 
-Welcome to **Names Hacktoberfest**, a repository dedicated to collecting programmer's names or "hello world"  written in various programming languages.
+Welcome to **Names Hacktoberfest**, a repository dedicated to collecting "programmer's names" or "hello world"  written in various programming languages.
 
 ## About📖
 
