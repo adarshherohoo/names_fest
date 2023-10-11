@@ -34,15 +34,15 @@ Follow these steps to contribute:
 
 🚀 Commit and push: Commit your changes and push them to your forked repository:
 
--git add name.extension
+- `git add name.extension`
 
--git commit -m "Added name in [language]"
+- `git commit -m "Added name in [language]"`
 
--git push origin main
+- `git push origin main`
 
--no need to make an extra branch
+- no need to make an extra branch
 
-✨ Submit a pull request: Go to your forked repository on GitHub and click "New pull request". Fill in the details and submit the pull request for review.
+✨ Submit a pull request: Go to your forked repository on GitHub and click "New pull request". Fill in the details and submit the pull request for review. <br/>
 We invite you to contribute and celebrate the beauty of HelloWorld in different languages!
 
 **FIRST COME FIRST SERVE**
