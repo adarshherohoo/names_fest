@@ -1,4 +1,4 @@
-# Names_hacktoberfest
+# Names_fest
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Names_Hacktoberfest" alt="Typing SVG" /></a>
@@ -45,4 +45,4 @@ Follow these steps to contribute:
 ✨ Submit a pull request: Go to your forked repository on GitHub and click "New pull request". Fill in the details and submit the pull request for review. <br/>
 We invite you to contribute and celebrate the beauty of HelloWorld in different languages!
 
-**FIRST COME FIRST SERVE**
+**FIRST COME FIRST SERVE hehe**
